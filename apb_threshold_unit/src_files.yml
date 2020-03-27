@@ -1,0 +1,7 @@
+apb_threshold_unit:
+  files: [
+    apb_threshold_unit.sv,
+    afe_thr_unit_type0.sv,
+    afe_thr_unit_type1.sv,
+    afe_thr_unit_type2.sv,
+  ]
